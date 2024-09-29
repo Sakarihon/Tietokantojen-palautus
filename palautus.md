@@ -130,7 +130,29 @@ T6
 
 
 
-T7))))
+T7
+
+
+<img width="545" alt="viikko 2 tentti 1 t7" src="https://github.com/user-attachments/assets/b111c569-4929-4f2c-a9a9-d8b6dfec8a88">
+
+
+
+t8
+
+
+
+<img width="623" alt="viikko 2 tentti 1 t8" src="https://github.com/user-attachments/assets/5ec27452-50f0-4eb1-b104-daffb3439ec2">
+
+
+
+
+t9
+
+
+
+<img width="584" alt="viikko 2 tentti 1 t9" src="https://github.com/user-attachments/assets/8e45d97c-2392-4525-b75f-a6130936a4cf">
+
+
 
 
 
