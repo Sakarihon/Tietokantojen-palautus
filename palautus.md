@@ -135,6 +135,53 @@ T7))))
 
 
 
+JOIN HARJOITUKSET TENTTI
+
+T1
+
+
+
+<img width="656" alt="viikko 3 tentti1 t1" src="https://github.com/user-attachments/assets/22e26e4f-7ac4-400b-9618-b7bf47519eb5">
+
+
+
+
+T2
+
+
+
+
+<img width="589" alt="viikko 3 tentti1 t2" src="https://github.com/user-attachments/assets/7ab46e0a-1e55-4175-b6cc-47b333ddbab8">
+
+
+
+
+
+T3
+
+
+
+
+<img width="593" alt="viikko 3 tentti 1 t3" src="https://github.com/user-attachments/assets/dae804cd-dc07-4573-a414-03961688ad2e">
+
+
+
+T4
+
+
+
+
+<img width="427" alt="viikko 3 tentti 1 t4" src="https://github.com/user-attachments/assets/d72997ee-49d2-495c-9fda-3948a912e09a">
+
+
+
+
+T5
+
+
+
+
+<img width="437" alt="viikko 3 tentti 1 t5" src="https://github.com/user-attachments/assets/66b7354f-b6d1-4288-b894-057aed8d872b">
 
 
 
@@ -144,34 +191,58 @@ T7))))
 
 
 
+SISÄKYSELY HARJOITUKSET
+
+
+T1
+
+
+
+
+<img width="266" alt="viikko 3 tentti 2 t1" src="https://github.com/user-attachments/assets/ffc5b0cb-bc1d-4ccb-aacb-31ce9b8a7841">
 
 
 
 
 
+T2
+
+
+
+
+<img width="284" alt="viikko 3 tentti 2 t2" src="https://github.com/user-attachments/assets/5cb15ada-0422-4522-9629-18bd2a351ce0">
 
 
 
 
 
+T3
 
 
 
 
 
+<img width="296" alt="viikko 3 tentti 2 t3" src="https://github.com/user-attachments/assets/a87891a2-6edc-4f81-94a7-4aed06593d43">
 
 
 
 
+T4
 
 
 
 
+<img width="242" alt="viikko 3 tentti2 t4" src="https://github.com/user-attachments/assets/93657b1f-90b1-44fb-87d4-44b3328d09f5">
 
 
 
 
+T5
 
+
+
+
+<img width="255" alt="viikko 3 tentti 2 t5" src="https://github.com/user-attachments/assets/6c3903b1-7bb6-41bd-814e-0ccc65ab996c">
 
 
 
