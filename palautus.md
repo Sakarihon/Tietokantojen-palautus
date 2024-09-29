@@ -248,7 +248,143 @@ T5
 
 
 
+Koostetieto kyselyt harjoitukset
 
+
+T1
+
+
+
+
+<img width="378" alt="tietokanta viikko 4 tentti 1 t1" src="https://github.com/user-attachments/assets/b1f07d42-3a05-48f4-a219-e94b274eb8a5">
+
+
+
+
+T2
+
+
+
+<img width="350" alt="tietokanta viikko 4 tentti 1 t 2" src="https://github.com/user-attachments/assets/8f506123-8e3f-452d-896b-41751e419d22">
+
+
+
+
+T3
+
+
+
+<img width="635" alt="tietokanta viikko 4 tentti1 t3" src="https://github.com/user-attachments/assets/ed1734e5-1ee9-42a1-95a5-e64a8991f86d">
+
+
+
+
+T4
+
+
+
+
+<img width="376" alt="tietokanta viikko 4 tentti 1 t4" src="https://github.com/user-attachments/assets/efd0de3e-e69a-4767-9850-4bf4f4d9c248">
+
+
+
+
+T5
+
+
+
+
+<img width="556" alt="tietokanta viikko 4 tentti1 t5" src="https://github.com/user-attachments/assets/b40e26ea-ecce-4120-b437-6b6aec0634bb">
+
+
+
+
+T6
+
+
+
+<img width="496" alt="tietokanta viikko 4 tentti 1 t6" src="https://github.com/user-attachments/assets/1b228cd9-e4a3-43c2-8867-62212d271da2">
+
+
+
+T7
+
+
+
+
+<img width="309" alt="tietokanta viikko 4 tentti 1 t7" src="https://github.com/user-attachments/assets/05822ef4-3c45-4fac-be24-2da698680ed8">
+
+
+
+
+T8
+
+
+
+<img width="352" alt="tietokanta viikko 4 tentti 1 t8" src="https://github.com/user-attachments/assets/2244a457-921f-44cf-8677-b4546455404e">
+
+
+
+
+
+T9
+
+
+
+
+<img width="420" alt="tietokanta viikko 4 tentti 1 t9" src="https://github.com/user-attachments/assets/117c3171-7f1c-4902-bf2f-75509c015887">
+
+
+
+T10
+
+
+
+
+<img width="304" alt="tietokanta viikko 4 tentti 1 t10" src="https://github.com/user-attachments/assets/ef369eb1-70c7-4811-ac0e-f0e89872bf88">
+
+
+
+
+
+
+
+Päivityskyselyt harjoitukset
+
+T1
+
+
+
+
+<img width="857" alt="tietokanta viikko 4 tentti 2 t1" src="https://github.com/user-attachments/assets/62f0f5d4-2ee7-4785-ab59-527a5b0f3f58">
+
+
+
+
+T2
+
+
+
+<img width="617" alt="VIIKKO 4 TENTTI 2 T 2" src="https://github.com/user-attachments/assets/32b068ce-a921-422e-a30f-d8d74da60475">
+
+
+
+
+T3
+
+
+
+
+<img width="347" alt="tietokanta viikko 4 tentti 2 t3" src="https://github.com/user-attachments/assets/e895e7d5-ce46-42af-b588-2cbaaf49ce0b">
+
+
+
+
+T4
+
+
+
+<img width="295" alt="tietokanta viikko 4 tentti 2 t4" src="https://github.com/user-attachments/assets/45a06651-ce62-4398-8e61-ab9fb94a0691">
 
 
 
