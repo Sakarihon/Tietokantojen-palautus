@@ -1,1 +1,2 @@
+Relaatiotietokannan peruskäsitteiden harjoitukset tentti
 
