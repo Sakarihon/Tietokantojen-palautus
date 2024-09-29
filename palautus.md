@@ -70,4 +70,120 @@ t25
 
 
 
+Yhteen tauluun kohdistuvien kyselyiden harjoitukset
+
+
+T1
+
+
+
+<img width="797" alt="viikko 2 tentti 1 t1" src="https://github.com/user-attachments/assets/8182f487-9ece-43e0-a7c1-404613717239">
+
+
+
+T2
+
+
+
+<img width="551" alt="viikko 2 tentti1 t2" src="https://github.com/user-attachments/assets/c39486a6-2f0c-40a1-be24-807e55c13200">
+
+
+
+
+
+T3
+
+
+<img width="617" alt="viikko2 tentti 1 t3" src="https://github.com/user-attachments/assets/c432a85c-2cdb-4fab-89de-6aa5038c9895">
+
+
+
+
+T4
+
+
+
+
+<img width="704" alt="viikko 2 tentti 1 t4" src="https://github.com/user-attachments/assets/3fecfac0-ecb0-4514-8711-de863a5e264f">
+
+
+
+
+T5
+
+
+
+
+<img width="494" alt="viikko 2 tentti1 t5" src="https://github.com/user-attachments/assets/a4a229e8-4950-456a-8490-71c7cd109185">
+
+
+
+
+
+T6
+
+
+
+
+<img width="500" alt="viikko 2 tentti 1 t6" src="https://github.com/user-attachments/assets/40bccf56-8f5c-4937-82f9-e14d68bb0cc9">
+
+
+
+
+T7))))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
