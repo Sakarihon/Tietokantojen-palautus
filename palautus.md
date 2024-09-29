@@ -510,6 +510,51 @@ T4
 
 
 
+Tietokannan suunnittelu harjoitukset
+
+
+t1 ja 2
+
+
+
+
+<img width="351" alt="viikko5 t1,2" src="https://github.com/user-attachments/assets/42606fad-e1a7-4988-abbe-f0abc9d5aebc">
+
+
+
+t3,4,5
+
+
+
+<img width="484" alt="viikko 5 t 3,4,5" src="https://github.com/user-attachments/assets/0ad6c498-c0b9-4bc3-a898-bc39d55af8da">
+
+
+
+t6
+
+
+
+<img width="523" alt="viik5t6" src="https://github.com/user-attachments/assets/ed2e71b1-6006-4c0b-8608-75bf435e7cd9">
+
+
+
+t7 ja 8
+
+
+
+
+<img width="385" alt="viik5 t7 ja 8" src="https://github.com/user-attachments/assets/c533e30f-2315-48e4-ade6-b2ef95aae374">
+
+
+
+
+t9 ja 10
+
+
+<img width="794" alt="viik5 t 9 ja 10" src="https://github.com/user-attachments/assets/d0b699e3-8a14-4905-9de9-009f44188b37">
+
+
+
 
 
 
