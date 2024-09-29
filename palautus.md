@@ -157,6 +157,103 @@ t9
 
 
 
+Where-osan liitosehto harjoitukset
+
+
+t1
+
+
+<img width="689" alt="v2t2 oikEA TEHTÄVÄ1 SE TOINE ON 4" src="https://github.com/user-attachments/assets/f638a897-faf8-4225-896a-bb8757156d7c">
+
+
+
+t2
+
+
+<img width="740" alt="v2t2teht2" src="https://github.com/user-attachments/assets/8500f2e1-d506-48a1-aec4-147d49b148f9">
+
+
+
+t3
+
+
+
+
+<img width="696" alt="v2t2teht3" src="https://github.com/user-attachments/assets/9eca9d68-34ed-4ae8-9a58-d402a785bd5b">
+
+
+
+
+t4
+
+
+
+
+<img width="532" alt="v2t2teh1" src="https://github.com/user-attachments/assets/bd3ff3a9-9a36-4cca-8a2a-a7b82447d5b8">
+
+
+
+
+t5
+
+
+
+<img width="523" alt="V2T2T5" src="https://github.com/user-attachments/assets/aebc3d32-0432-47f6-8a9b-5b2ba1dc590c">
+
+
+
+
+t6
+
+
+
+
+
+<img width="501" alt="V2T2TEHT6" src="https://github.com/user-attachments/assets/e74ca47c-1137-4315-b884-96ec9a1bfb5d">
+
+
+
+
+t7
+
+
+
+
+<img width="824" alt="v2t2 t7" src="https://github.com/user-attachments/assets/21076ac1-616c-4237-96f8-ac6df66836b3">
+
+
+
+
+
+
+t8
+
+
+
+
+<img width="733" alt="v2t2teht8" src="https://github.com/user-attachments/assets/8d77bafd-e17d-4d34-a101-fde0dc5c388a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 JOIN HARJOITUKSET TENTTI
 
 T1
